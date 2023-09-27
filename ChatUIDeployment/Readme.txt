@@ -1,0 +1,1 @@
+For a Simple chat UI use https://github.com/microsoft/sample-app-aoai-chatGPT
